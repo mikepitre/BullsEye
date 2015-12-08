@@ -285,6 +285,7 @@
 				8F2000631C154D3000DB5602 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
